@@ -142,7 +142,7 @@ Visit `http://localhost:5173` in your browser to begin your journey to becoming 
   <tr>
     <td align="center">
       <a href="https://github.com/Akshaykumar-B">
-        <img src="https://github.com/Akshaykumar-B.png" width="100px;" alt="Thanveer265"/>
+        <img src="https://github.com/Akshaykumar-B.png" width="100px;" alt="Akshaykumar-B"/>
         <br /><sub><b>Akshaykumar-B</b></sub>
       </a>
       <br />Frontend Development
@@ -160,6 +160,13 @@ Visit `http://localhost:5173` in your browser to begin your journey to becoming 
         <br /><sub><b>mohan-kumar-12</b></sub>
       </a>
       <br />Project Integration
+    </td>
+    <td align="center">
+      <a href="https://github.com/Thanveer265">
+        <img src="https://github.com/Thanveer265.png" width="100px;" alt="Thanveer265"/>
+        <br /><sub><b>Thanveer265</b></sub>
+      </a>
+      <br />Database Integration
     </td>
   </tr>
 </table>
